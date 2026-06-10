@@ -1,0 +1,13 @@
+pyyaml
+numpy
+scipy
+pandas
+statsmodels
+matplotlib
+kiwipiepy
+datasets
+huggingface_hub
+# --- 선택적 백엔드 (필요 시 주석 해제) ---
+# torch          # hcx-seed (HyperCLOVA X SEED, transformers 백엔드)
+# transformers   # hcx-seed
+# google-genai   # gemini 보조 기준점

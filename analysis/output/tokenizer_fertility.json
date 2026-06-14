@@ -1,0 +1,137 @@
+{
+  "per_model": {
+    "EXAONE 3.5": {
+      "repo": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
+      "source": "공식",
+      "by_level": {
+        "1": {
+          "name": "해라체",
+          "instr_fertility": 0.837,
+          "ending_fertility": 0.812
+        },
+        "2": {
+          "name": "해체",
+          "instr_fertility": 0.829,
+          "ending_fertility": 0.75
+        },
+        "3": {
+          "name": "하게체",
+          "instr_fertility": 0.847,
+          "ending_fertility": 0.9
+        },
+        "4": {
+          "name": "하오체",
+          "instr_fertility": 0.783,
+          "ending_fertility": 0.667
+        },
+        "5": {
+          "name": "해요체",
+          "instr_fertility": 0.74,
+          "ending_fertility": 0.5
+        },
+        "6": {
+          "name": "하십시오체",
+          "instr_fertility": 0.738,
+          "ending_fertility": 0.576
+        }
+      },
+      "morpheme_probe": {
+        "보게": 2,
+        "보게나": 3,
+        "하게": 2,
+        "있소": 2,
+        "하시오": 2,
+        "습니다": 1
+      }
+    },
+    "Qwen3": {
+      "repo": "Qwen/Qwen3-8B",
+      "source": "공식(공개)",
+      "by_level": {
+        "1": {
+          "name": "해라체",
+          "instr_fertility": 1.124,
+          "ending_fertility": 1.0
+        },
+        "2": {
+          "name": "해체",
+          "instr_fertility": 1.216,
+          "ending_fertility": 1.083
+        },
+        "3": {
+          "name": "하게체",
+          "instr_fertility": 1.103,
+          "ending_fertility": 0.95
+        },
+        "4": {
+          "name": "하오체",
+          "instr_fertility": 1.071,
+          "ending_fertility": 0.857
+        },
+        "5": {
+          "name": "해요체",
+          "instr_fertility": 1.049,
+          "ending_fertility": 0.808
+        },
+        "6": {
+          "name": "하십시오체",
+          "instr_fertility": 0.953,
+          "ending_fertility": 0.697
+        }
+      },
+      "morpheme_probe": {
+        "보게": 2,
+        "보게나": 3,
+        "하게": 1,
+        "있소": 2,
+        "하시오": 2,
+        "습니다": 1
+      }
+    },
+    "Llama 3.1": {
+      "repo": "NousResearch/Meta-Llama-3.1-8B-Instruct",
+      "source": "공개 미러(게이트 우회, 동일 BPE)",
+      "by_level": {
+        "1": {
+          "name": "해라체",
+          "instr_fertility": 1.04,
+          "ending_fertility": 0.938
+        },
+        "2": {
+          "name": "해체",
+          "instr_fertility": 1.108,
+          "ending_fertility": 1.0
+        },
+        "3": {
+          "name": "하게체",
+          "instr_fertility": 1.011,
+          "ending_fertility": 0.95
+        },
+        "4": {
+          "name": "하오체",
+          "instr_fertility": 0.963,
+          "ending_fertility": 0.762
+        },
+        "5": {
+          "name": "해요체",
+          "instr_fertility": 0.975,
+          "ending_fertility": 0.769
+        },
+        "6": {
+          "name": "하십시오체",
+          "instr_fertility": 0.896,
+          "ending_fertility": 0.667
+        }
+      },
+      "morpheme_probe": {
+        "보게": 2,
+        "보게나": 3,
+        "하게": 1,
+        "있소": 2,
+        "하시오": 2,
+        "습니다": 1
+      }
+    }
+  },
+  "notes": []
+}

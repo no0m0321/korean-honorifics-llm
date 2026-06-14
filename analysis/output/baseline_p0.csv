@@ -1,0 +1,7 @@
+task,model,P0
+nsmc,exaone3.5,0.874
+nsmc,qwen3,0.854
+nsmc,llama3.1,0.856
+copa,exaone3.5,0.915
+copa,qwen3,0.878
+copa,llama3.1,0.802

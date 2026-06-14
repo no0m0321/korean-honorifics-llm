@@ -1,0 +1,28 @@
+{
+  "nsmc": {
+    "n_obs": 54000,
+    "n_items": 1000,
+    "gee": {
+      "method": "GEE(exchangeable, item)",
+      "chi2": 52.9690143669533,
+      "df": 10,
+      "p": 7.545255254878857e-08
+    },
+    "map_mixed": {
+      "error": "InvalidIndexError: (array([[ 8],\n       [ 9],\n       [10],\n       [11],\n       [12],\n       [13],\n       [14],\n       [15],\n       [16],\n       [17]]), array([[ 8,  9, 10, 11, 12, 13, 14, 15, 16, 17]]))"
+    }
+  },
+  "copa": {
+    "n_obs": 54000,
+    "n_items": 1000,
+    "gee": {
+      "method": "GEE(exchangeable, item)",
+      "chi2": 118.33372770113967,
+      "df": 10,
+      "p": 1.1018214361004114e-20
+    },
+    "map_mixed": {
+      "error": "InvalidIndexError: (array([[ 8],\n       [ 9],\n       [10],\n       [11],\n       [12],\n       [13],\n       [14],\n       [15],\n       [16],\n       [17]]), array([[ 8,  9, 10, 11, 12, 13, 14, 15, 16, 17]]))"
+    }
+  }
+}

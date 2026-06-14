@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code, or the Korean speech-level classifier, please cite the following."
+title: "Korean Honorifics as a Prompt Variable: Speech-Level Effects on LLM Performance and Output Register"
+abstract: >-
+  Prompt politeness affects LLM performance in English, Chinese, and Japanese, yet Korean —
+  a language with one of the most grammaticalized honorific systems — remained untested.
+  This artifact systematically manipulates the six Korean speech levels as a prompt variable
+  across three open-weight models (EXAONE 3.5, Qwen3, Llama 3.1) and three tasks, with
+  113,400 model responses, a Kiwi-based speech-level classifier, and a full reproducible pipeline.
+authors:
+  - family-names: "FAMILY"        # TODO: 저자 정보 기입
+    given-names: "GIVEN"
+    email: "swxvno0m@gmail.com"
+keywords:
+  - large language models
+  - prompt politeness
+  - Korean honorifics
+  - speech levels
+  - prompt sensitivity
+  - register classification
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-06-15"
+repository-code: "https://github.com/USER/korean-honorifics-llm"   # TODO: 저장소 URL 기입

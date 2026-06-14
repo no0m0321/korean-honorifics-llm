@@ -1,0 +1,71 @@
+{
+  "T1-1_glmer": {
+    "nsmc": {
+      "chi2": 26.0,
+      "df": 10,
+      "p": 0.00372
+    },
+    "copa": {
+      "chi2": 145.0,
+      "df": 10,
+      "p": 3.89e-26
+    },
+    "note": "교차 무선효과(item+template), singular=FALSE. VB(실패)/GEE/glmer 3법 수렴. NSMC는 GEE보다 보수적, COPA는 더 강함."
+  },
+  "T1-2_tost": {
+    "exaone": "고빈도쌍 전부 ±2%p 동등",
+    "qwen3": "대체로 동등(1쌍 불확정)",
+    "llama": "대체로 동등(일부 불확정)"
+  },
+  "T1-3_p0": {
+    "nsmc": [
+      0.874,
+      0.854,
+      0.856
+    ],
+    "copa": [
+      0.915,
+      0.878,
+      0.802
+    ],
+    "note": "단일 P0=0.85 플레이스홀더 부정확 입증"
+  },
+  "T1-4_decoding": {
+    "copa_exaone_subset": {
+      "greedy": {
+        "해라": 95.0,
+        "하게": 90.5,
+        "해요": 94.5
+      },
+      "temp0.7": {
+        "해라": 94.2,
+        "하게": 89.3,
+        "해요": 93.8
+      }
+    },
+    "note": "하게체 저하가 greedy·temp0.7 모두 재현 = 디코딩 강건"
+  },
+  "T1-5_tokenizer": {
+    "하게체_ending_fertility": {
+      "EXAONE": 0.9,
+      "Qwen3": 0.95,
+      "Llama": 0.95
+    },
+    "하오체_ending_fertility": {
+      "EXAONE": 0.667,
+      "Qwen3": 0.857,
+      "Llama": 0.762
+    },
+    "보게나_tokens": 3,
+    "보게_tokens": 2,
+    "습니다_tokens": 1,
+    "note": "하게체 종결어미가 하오체보다 더 잘게 분절. 보게나=3토큰(최다). 단 Qwen3가 한국어 전반 fertility 최고인데 가장 강건 → fertility는 within-model 하게/하오 대비는 설명하나 between-model 강건성은 설명못함(부분기전)"
+  },
+  "T1-6_dissociation": {
+    "nsmc_exaone_acc_parsed_only": "전 단계 0.895~0.900 평탄(추론 보존)",
+    "nsmc_하게_parse_fail": 0.042,
+    "copa_하게_parse_fail": 0.0,
+    "copa_하게_acc_parsed": 0.85,
+    "note": "NSMC=출력형식 회피(판단회피·라벨매몰), COPA=추론 손상. 동일 어체 이중 해리."
+  }
+}

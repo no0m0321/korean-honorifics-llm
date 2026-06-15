@@ -14,6 +14,9 @@ OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")
 
 MODELS = {
     "exaone3.5": {"backend": "ollama", "id": "exaone3.5:7.8b"},
+    # 크기 사다리 (T2-1): 패밀리·한국어비중 고정, 크기만 변화 — 교란 없는 비교
+    "exaone-2.4b": {"backend": "ollama", "id": "exaone3.5:2.4b"},
+    "exaone-32b": {"backend": "ollama", "id": "exaone3.5:32b"},
     # qwen3는 thinking 모델 — 경어 효과 측정에 사고 토큰이 끼면 안 되므로 비활성화
     "qwen3": {"backend": "ollama", "id": "qwen3:8b", "extra": {"think": False}},
     "llama3.1": {"backend": "ollama", "id": "llama3.1:8b"},

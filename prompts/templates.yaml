@@ -14,11 +14,15 @@ input_blocks:
   nsmc: "리뷰: {document}"
   copa: "전제: {premise}\n질문 유형: {question}\n선택지 1: {alternative_1}\n선택지 2: {alternative_2}"
   summ: "기사:\n{document}"
+  hsc: "상황: {situation}"
+  memo: "메모: {memo}"
 
 max_tokens:
   nsmc: 64
   copa: 64
   summ: 300
+  hsc: 64
+  memo: 96
 
 instructions:
   nsmc:
@@ -96,3 +100,10 @@ instructions:
       - "다음 뉴스 기사를 세 문장 이내로 요약해 주십시오."
       - "아래 기사의 핵심 내용을 간추려 주시기 바랍니다. 세 문장을 넘기지 말아 주십시오."
       - "이 기사를 읽고 중요한 내용만 추려 요약해 주십시오. 세 문장 이내로 작성해 주십시오."
+  # 2축 확장 신설 태스크 (상대높임=해요체 1종 고정, 채널1 측정 직교)
+  hsc:
+    5:
+      - "다음 상황을 한 문장으로 자연스럽게 완성해 주세요. 괄호 안의 동사를 문맥에 알맞은 형태로 바꿔 쓰고, 다른 설명은 붙이지 말아 주세요."
+  memo:
+    5:
+      - "아래 메모를 한 문장으로 정리해 주세요. 다른 설명은 붙이지 말아 주세요."

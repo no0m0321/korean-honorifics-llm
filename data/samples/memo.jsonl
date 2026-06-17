@@ -1,0 +1,80 @@
+{"item_id": "memo0_plus", "subj": 1, "memo": "원장님께서 자료를 보내신다고 하셨다."}
+{"item_id": "memo0_minus", "subj": 0, "memo": "최 씨가 자료를 보낸다고 했다."}
+{"item_id": "memo1_plus", "subj": 1, "memo": "부장님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo1_minus", "subj": 0, "memo": "김 대리가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo2_plus", "subj": 1, "memo": "교수님께서 자료를 보내신다고 하셨다."}
+{"item_id": "memo2_minus", "subj": 0, "memo": "김 대리가 자료를 보낸다고 했다."}
+{"item_id": "memo3_plus", "subj": 1, "memo": "사장님께서 점심에 도착하신다고 하셨다."}
+{"item_id": "memo3_minus", "subj": 0, "memo": "이 사원이 점심에 도착한다고 했다."}
+{"item_id": "memo4_plus", "subj": 1, "memo": "사장님께서 일찍 퇴근하신다고 하셨다."}
+{"item_id": "memo4_minus", "subj": 0, "memo": "최 씨가 일찍 퇴근한다고 했다."}
+{"item_id": "memo5_plus", "subj": 1, "memo": "교수님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo5_minus", "subj": 0, "memo": "최 씨가 보고서를 검토한다고 했다."}
+{"item_id": "memo6_plus", "subj": 1, "memo": "부장님께서 점심에 도착하신다고 하셨다."}
+{"item_id": "memo6_minus", "subj": 0, "memo": "최 씨가 점심에 도착한다고 했다."}
+{"item_id": "memo7_plus", "subj": 1, "memo": "부장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo7_minus", "subj": 0, "memo": "후배가 내일 출장을 간다고 했다."}
+{"item_id": "memo8_plus", "subj": 1, "memo": "부장님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo8_minus", "subj": 0, "memo": "이 사원이 3시에 회의실로 온다고 했다."}
+{"item_id": "memo9_plus", "subj": 1, "memo": "원장님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo9_minus", "subj": 0, "memo": "최 씨가 보고서를 검토한다고 했다."}
+{"item_id": "memo10_plus", "subj": 1, "memo": "사장님께서 일찍 퇴근하신다고 하셨다."}
+{"item_id": "memo10_minus", "subj": 0, "memo": "최 씨가 일찍 퇴근한다고 했다."}
+{"item_id": "memo11_plus", "subj": 1, "memo": "사장님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo11_minus", "subj": 0, "memo": "최 씨가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo12_plus", "subj": 1, "memo": "원장님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo12_minus", "subj": 0, "memo": "박 주임이 3시에 회의실로 온다고 했다."}
+{"item_id": "memo13_plus", "subj": 1, "memo": "교수님께서 일찍 퇴근하신다고 하셨다."}
+{"item_id": "memo13_minus", "subj": 0, "memo": "최 씨가 일찍 퇴근한다고 했다."}
+{"item_id": "memo14_plus", "subj": 1, "memo": "사장님께서 일찍 퇴근하신다고 하셨다."}
+{"item_id": "memo14_minus", "subj": 0, "memo": "이 사원이 일찍 퇴근한다고 했다."}
+{"item_id": "memo15_plus", "subj": 1, "memo": "사장님께서 행사에 참석하신다고 하셨다."}
+{"item_id": "memo15_minus", "subj": 0, "memo": "김 대리가 행사에 참석한다고 했다."}
+{"item_id": "memo16_plus", "subj": 1, "memo": "교수님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo16_minus", "subj": 0, "memo": "김 대리가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo17_plus", "subj": 1, "memo": "선생님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo17_minus", "subj": 0, "memo": "최 씨가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo18_plus", "subj": 1, "memo": "부장님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo18_minus", "subj": 0, "memo": "후배가 보고서를 검토한다고 했다."}
+{"item_id": "memo19_plus", "subj": 1, "memo": "사장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo19_minus", "subj": 0, "memo": "김 대리가 내일 출장을 간다고 했다."}
+{"item_id": "memo20_plus", "subj": 1, "memo": "사장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo20_minus", "subj": 0, "memo": "최 씨가 내일 출장을 간다고 했다."}
+{"item_id": "memo21_plus", "subj": 1, "memo": "선생님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo21_minus", "subj": 0, "memo": "이 사원이 내일 출장을 간다고 했다."}
+{"item_id": "memo22_plus", "subj": 1, "memo": "선생님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo22_minus", "subj": 0, "memo": "김 대리가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo23_plus", "subj": 1, "memo": "선생님께서 자료를 보내신다고 하셨다."}
+{"item_id": "memo23_minus", "subj": 0, "memo": "후배가 자료를 보낸다고 했다."}
+{"item_id": "memo24_plus", "subj": 1, "memo": "교수님께서 회의를 준비하신다고 하셨다."}
+{"item_id": "memo24_minus", "subj": 0, "memo": "이 사원이 회의를 준비한다고 했다."}
+{"item_id": "memo25_plus", "subj": 1, "memo": "사장님께서 회의를 준비하신다고 하셨다."}
+{"item_id": "memo25_minus", "subj": 0, "memo": "박 주임이 회의를 준비한다고 했다."}
+{"item_id": "memo26_plus", "subj": 1, "memo": "사장님께서 자료를 보내신다고 하셨다."}
+{"item_id": "memo26_minus", "subj": 0, "memo": "박 주임이 자료를 보낸다고 했다."}
+{"item_id": "memo27_plus", "subj": 1, "memo": "교수님께서 일찍 퇴근하신다고 하셨다."}
+{"item_id": "memo27_minus", "subj": 0, "memo": "김 대리가 일찍 퇴근한다고 했다."}
+{"item_id": "memo28_plus", "subj": 1, "memo": "원장님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo28_minus", "subj": 0, "memo": "후배가 3시에 회의실로 온다고 했다."}
+{"item_id": "memo29_plus", "subj": 1, "memo": "부장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo29_minus", "subj": 0, "memo": "후배가 내일 출장을 간다고 했다."}
+{"item_id": "memo30_plus", "subj": 1, "memo": "선생님께서 점심에 도착하신다고 하셨다."}
+{"item_id": "memo30_minus", "subj": 0, "memo": "박 주임이 점심에 도착한다고 했다."}
+{"item_id": "memo31_plus", "subj": 1, "memo": "교수님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo31_minus", "subj": 0, "memo": "김 대리가 보고서를 검토한다고 했다."}
+{"item_id": "memo32_plus", "subj": 1, "memo": "교수님께서 점심에 도착하신다고 하셨다."}
+{"item_id": "memo32_minus", "subj": 0, "memo": "박 주임이 점심에 도착한다고 했다."}
+{"item_id": "memo33_plus", "subj": 1, "memo": "원장님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo33_minus", "subj": 0, "memo": "후배가 보고서를 검토한다고 했다."}
+{"item_id": "memo34_plus", "subj": 1, "memo": "선생님께서 행사에 참석하신다고 하셨다."}
+{"item_id": "memo34_minus", "subj": 0, "memo": "후배가 행사에 참석한다고 했다."}
+{"item_id": "memo35_plus", "subj": 1, "memo": "선생님께서 3시에 회의실로 오신다고 하셨다."}
+{"item_id": "memo35_minus", "subj": 0, "memo": "박 주임이 3시에 회의실로 온다고 했다."}
+{"item_id": "memo36_plus", "subj": 1, "memo": "사장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo36_minus", "subj": 0, "memo": "박 주임이 내일 출장을 간다고 했다."}
+{"item_id": "memo37_plus", "subj": 1, "memo": "부장님께서 내일 출장을 가신다고 하셨다."}
+{"item_id": "memo37_minus", "subj": 0, "memo": "후배가 내일 출장을 간다고 했다."}
+{"item_id": "memo38_plus", "subj": 1, "memo": "교수님께서 보고서를 검토하신다고 하셨다."}
+{"item_id": "memo38_minus", "subj": 0, "memo": "박 주임이 보고서를 검토한다고 했다."}
+{"item_id": "memo39_plus", "subj": 1, "memo": "교수님께서 점심에 도착하신다고 하셨다."}
+{"item_id": "memo39_minus", "subj": 0, "memo": "이 사원이 점심에 도착한다고 했다."}

@@ -1,0 +1,216 @@
+{"item_id": "hsc0", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "민수가 조카에게 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc1", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "민수가 사장님께 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc2", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "민수가 사장님께 사진을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc3", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "선생님께서 조카에게 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc4", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "선생님께서 사장님께 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc5", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "선생님께서 사장님께 사진을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc6", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "친구가 친구에게 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc7", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "친구가 원장님께 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc8", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "친구가 원장님께 선물을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc9", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "할머니께서 친구에게 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc10", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "할머니께서 원장님께 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc11", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "할머니께서 원장님께 선물을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc12", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "누나가 동생에게 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc13", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "누나가 선생님께 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc14", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "누나가 선생님께 선물을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc15", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "부장님께서 동생에게 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc16", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "부장님께서 선생님께 선물을 (주다).", "verb": "주다"}
+{"item_id": "hsc17", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "부장님께서 선생님께 선물을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc18", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "지수가 지수에게 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc19", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "지수가 할머니께 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc20", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "지수가 할머니께 사진을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc21", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "어머니께서 지수에게 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc22", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "어머니께서 할머니께 사진을 (주다).", "verb": "주다"}
+{"item_id": "hsc23", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "어머니께서 할머니께 사진을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc24", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "지수가 조카에게 편지를 (주다).", "verb": "주다"}
+{"item_id": "hsc25", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "지수가 선생님께 편지를 (주다).", "verb": "주다"}
+{"item_id": "hsc26", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "지수가 선생님께 편지를 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc27", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "할머니께서 조카에게 편지를 (주다).", "verb": "주다"}
+{"item_id": "hsc28", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "할머니께서 선생님께 편지를 (주다).", "verb": "주다"}
+{"item_id": "hsc29", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "할머니께서 선생님께 편지를 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc30", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "철수가 동생에게 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc31", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "철수가 할머니께 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc32", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "철수가 할머니께 책을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc33", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "회장님께서 동생에게 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc34", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "회장님께서 할머니께 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc35", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "회장님께서 할머니께 책을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc36", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "후배가 철수에게 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc37", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "후배가 할머니께 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc38", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "후배가 할머니께 책을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc39", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "사장님께서 철수에게 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc40", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "사장님께서 할머니께 책을 (주다).", "verb": "주다"}
+{"item_id": "hsc41", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "사장님께서 할머니께 책을 (주다). [동사 어간은 바꾸지 말고]", "verb": "주다"}
+{"item_id": "hsc42", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "조카가 현우에게 안부를 (묻다).", "verb": "묻다"}
+{"item_id": "hsc43", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "조카가 선생님께 안부를 (묻다).", "verb": "묻다"}
+{"item_id": "hsc44", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "조카가 선생님께 안부를 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc45", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "할머니께서 현우에게 안부를 (묻다).", "verb": "묻다"}
+{"item_id": "hsc46", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "할머니께서 선생님께 안부를 (묻다).", "verb": "묻다"}
+{"item_id": "hsc47", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "할머니께서 선생님께 안부를 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc48", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "민수가 조카에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc49", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "민수가 부장님께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc50", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "민수가 부장님께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc51", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "부장님께서 조카에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc52", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "부장님께서 부장님께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc53", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "부장님께서 부장님께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc54", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "후배가 민수에게 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc55", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "후배가 할머니께 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc56", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "후배가 할머니께 사정을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc57", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "사장님께서 민수에게 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc58", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "사장님께서 할머니께 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc59", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "사장님께서 할머니께 사정을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc60", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "철수가 현우에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc61", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "철수가 교수님께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc62", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "철수가 교수님께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc63", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "원장님께서 현우에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc64", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "원장님께서 교수님께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc65", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "원장님께서 교수님께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc66", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "후배가 조카에게 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc67", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "후배가 사장님께 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc68", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "후배가 사장님께 사정을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc69", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "아버지께서 조카에게 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc70", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "아버지께서 사장님께 사정을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc71", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "아버지께서 사장님께 사정을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc72", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "철수가 조카에게 방법을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc73", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "철수가 할아버지께 방법을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc74", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "철수가 할아버지께 방법을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc75", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "할아버지께서 조카에게 방법을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc76", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "할아버지께서 할아버지께 방법을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc77", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "할아버지께서 할아버지께 방법을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc78", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "후배가 철수에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc79", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "후배가 할머니께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc80", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "후배가 할머니께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc81", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "아버지께서 철수에게 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc82", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "아버지께서 할머니께 길을 (묻다).", "verb": "묻다"}
+{"item_id": "hsc83", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "아버지께서 할머니께 길을 (묻다). [동사 어간은 바꾸지 말고]", "verb": "묻다"}
+{"item_id": "hsc84", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "누나가 현우에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc85", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "누나가 사장님께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc86", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "누나가 사장님께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc87", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "회장님께서 현우에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc88", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "회장님께서 사장님께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc89", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "회장님께서 사장님께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc90", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "사촌이 후배에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc91", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "사촌이 교수님께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc92", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "사촌이 교수님께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc93", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "아버지께서 후배에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc94", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "아버지께서 교수님께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc95", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "아버지께서 교수님께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc96", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "철수가 지수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc97", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "철수가 선생님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc98", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "철수가 선생님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc99", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "교수님께서 지수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc100", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "교수님께서 선생님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc101", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "교수님께서 선생님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc102", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "조카가 철수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc103", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "조카가 부장님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc104", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "조카가 부장님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc105", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "회장님께서 철수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc106", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "회장님께서 부장님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc107", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "회장님께서 부장님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc108", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "지수가 친구에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc109", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "지수가 큰아버지께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc110", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "지수가 큰아버지께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc111", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "교수님께서 친구에게 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc112", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "교수님께서 큰아버지께 소식을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc113", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "교수님께서 큰아버지께 소식을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc114", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "친구가 민수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc115", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "친구가 교수님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc116", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "친구가 교수님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc117", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "할아버지께서 민수에게 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc118", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "할아버지께서 교수님께 말씀을 (전하다).", "verb": "전하다"}
+{"item_id": "hsc119", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "할아버지께서 교수님께 말씀을 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc120", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "현우가 지수에게 결과를 (전하다).", "verb": "전하다"}
+{"item_id": "hsc121", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "현우가 할머니께 결과를 (전하다).", "verb": "전하다"}
+{"item_id": "hsc122", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "현우가 할머니께 결과를 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc123", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "아버지께서 지수에게 결과를 (전하다).", "verb": "전하다"}
+{"item_id": "hsc124", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "아버지께서 할머니께 결과를 (전하다).", "verb": "전하다"}
+{"item_id": "hsc125", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "아버지께서 할머니께 결과를 (전하다). [동사 어간은 바꾸지 말고]", "verb": "전하다"}
+{"item_id": "hsc126", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "현우가 후배에게 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc127", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "현우가 큰아버지께 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc128", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "현우가 큰아버지께 자료를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc129", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "아버지께서 후배에게 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc130", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "아버지께서 큰아버지께 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc131", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "아버지께서 큰아버지께 자료를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc132", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "동생이 후배에게 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc133", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "동생이 할머니께 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc134", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "동생이 할머니께 편지를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc135", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "원장님께서 후배에게 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc136", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "원장님께서 할머니께 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc137", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "원장님께서 할머니께 편지를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc138", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "친구가 지수에게 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc139", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "친구가 선생님께 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc140", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "친구가 선생님께 초대장을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc141", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "부장님께서 지수에게 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc142", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "부장님께서 선생님께 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc143", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "부장님께서 선생님께 초대장을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc144", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "사촌이 후배에게 선물을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc145", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "사촌이 할아버지께 선물을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc146", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "사촌이 할아버지께 선물을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc147", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "교수님께서 후배에게 선물을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc148", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "교수님께서 할아버지께 선물을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc149", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "교수님께서 할아버지께 선물을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc150", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "민수가 후배에게 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc151", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "민수가 할머니께 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc152", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "민수가 할머니께 자료를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc153", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "원장님께서 후배에게 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc154", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "원장님께서 할머니께 자료를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc155", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "원장님께서 할머니께 자료를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc156", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "현우가 민수에게 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc157", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "현우가 사장님께 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc158", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "현우가 사장님께 편지를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc159", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "원장님께서 민수에게 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc160", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "원장님께서 사장님께 편지를 (보내다).", "verb": "보내다"}
+{"item_id": "hsc161", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "원장님께서 사장님께 편지를 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc162", "block": "A", "subj": 0, "obj": 0, "obj_ctrl": 0, "situation": "민수가 조카에게 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc163", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 0, "situation": "민수가 할아버지께 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc164", "block": "A", "subj": 0, "obj": 1, "obj_ctrl": 1, "situation": "민수가 할아버지께 초대장을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc165", "block": "A", "subj": 1, "obj": 0, "obj_ctrl": 0, "situation": "부장님께서 조카에게 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc166", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 0, "situation": "부장님께서 할아버지께 초대장을 (보내다).", "verb": "보내다"}
+{"item_id": "hsc167", "block": "A", "subj": 1, "obj": 1, "obj_ctrl": 1, "situation": "부장님께서 할아버지께 초대장을 (보내다). [동사 어간은 바꾸지 말고]", "verb": "보내다"}
+{"item_id": "hsc168", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "동생이 지금 방에서 (자다).", "verb": "자다"}
+{"item_id": "hsc169", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 지금 방에서 (자다).", "verb": "자다"}
+{"item_id": "hsc170", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "후배가 지금 방에서 (자다).", "verb": "자다"}
+{"item_id": "hsc171", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "부장님께서 지금 방에서 (자다).", "verb": "자다"}
+{"item_id": "hsc172", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 일찍 (자다).", "verb": "자다"}
+{"item_id": "hsc173", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할아버지께서 일찍 (자다).", "verb": "자다"}
+{"item_id": "hsc174", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "친구가 일찍 (자다).", "verb": "자다"}
+{"item_id": "hsc175", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할머니께서 일찍 (자다).", "verb": "자다"}
+{"item_id": "hsc176", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "친구가 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc177", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc178", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "민수가 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc179", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "교수님께서 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc180", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "지수가 3시에 (오다).", "verb": "오다"}
+{"item_id": "hsc181", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 3시에 (오다).", "verb": "오다"}
+{"item_id": "hsc182", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "지수가 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc183", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "선생님께서 회의에 (오다).", "verb": "오다"}
+{"item_id": "hsc184", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 편지를 (읽다).", "verb": "읽다"}
+{"item_id": "hsc185", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "아버지께서 편지를 (읽다).", "verb": "읽다"}
+{"item_id": "hsc186", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "후배가 그 책을 (읽다).", "verb": "읽다"}
+{"item_id": "hsc187", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "사장님께서 그 책을 (읽다).", "verb": "읽다"}
+{"item_id": "hsc188", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "사촌이 편지를 (읽다).", "verb": "읽다"}
+{"item_id": "hsc189", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "부장님께서 편지를 (읽다).", "verb": "읽다"}
+{"item_id": "hsc190", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "친구가 신문을 (읽다).", "verb": "읽다"}
+{"item_id": "hsc191", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 신문을 (읽다).", "verb": "읽다"}
+{"item_id": "hsc192", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "친구가 약을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc193", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "사장님께서 약을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc194", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "현우가 과일을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc195", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할아버지께서 과일을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc196", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "현우가 저녁을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc197", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "사장님께서 저녁을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc198", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "친구가 과일을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc199", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할아버지께서 과일을 (먹다).", "verb": "먹다"}
+{"item_id": "hsc200", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 요즘 (아프다).", "verb": "아프다"}
+{"item_id": "hsc201", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할아버지께서 요즘 (아프다).", "verb": "아프다"}
+{"item_id": "hsc202", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "누나가 요즘 (아프다).", "verb": "아프다"}
+{"item_id": "hsc203", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할아버지께서 요즘 (아프다).", "verb": "아프다"}
+{"item_id": "hsc204", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 어제부터 (아프다).", "verb": "아프다"}
+{"item_id": "hsc205", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "원장님께서 어제부터 (아프다).", "verb": "아프다"}
+{"item_id": "hsc206", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 많이 (아프다).", "verb": "아프다"}
+{"item_id": "hsc207", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 많이 (아프다).", "verb": "아프다"}
+{"item_id": "hsc208", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "현우가 조용히 (말하다).", "verb": "말하다"}
+{"item_id": "hsc209", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "교수님께서 조용히 (말하다).", "verb": "말하다"}
+{"item_id": "hsc210", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 그렇게 (말하다).", "verb": "말하다"}
+{"item_id": "hsc211", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "어머니께서 그렇게 (말하다).", "verb": "말하다"}
+{"item_id": "hsc212", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "철수가 천천히 (말하다).", "verb": "말하다"}
+{"item_id": "hsc213", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "아버지께서 천천히 (말하다).", "verb": "말하다"}
+{"item_id": "hsc214", "block": "A2", "subj": 0, "obj": -1, "obj_ctrl": 0, "situation": "조카가 그렇게 (말하다).", "verb": "말하다"}
+{"item_id": "hsc215", "block": "A2", "subj": 1, "obj": -1, "obj_ctrl": 0, "situation": "할머니께서 그렇게 (말하다).", "verb": "말하다"}

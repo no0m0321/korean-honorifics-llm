@@ -1,5 +1,11 @@
 # korean-honorifics-llm
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20740359.svg)](https://doi.org/10.5281/zenodo.20740359)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+**한국어 경어법이 LLM 성능·출력에 미치는 영향** — 상대·주체·객체 높임 3축을 프롬프트 변수로 분석.
+저자: 김승우 (잠신고등학교) · 논문: [paper/](paper/) · DOI: [10.5281/zenodo.20740359](https://doi.org/10.5281/zenodo.20740359)
+
 한국어 경어법(상대 높임법 6단계)이 LLM 성능과 출력 스타일에 미치는 영향 — 실험 코드.
 연구 계획서 v2.1 기준 (NSMC 1,000 / KoBEST COPA 1,000 전체 / 뉴스 요약 100).
 

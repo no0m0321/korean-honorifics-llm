@@ -63,15 +63,15 @@ def nsmcref_analysis(db):
                 if not rows:
                     continue
                 a = np.mean([parse_nsmc(r) == gold[i] for i, r in rows])
-                # 전파: 출력에 주체높임(-시-) 또는 께 표지
-                p = np.mean([detect_subject_hon(_first(r)) for _, r in rows])
+                # 전파: 의뢰자(수신자)는 객체높임 대상 → '전해 드리다/말씀'
+                p = np.mean([int("드리" in _first(r) or "말씀" in _first(r)) for _, r in rows])
                 accs.append(a); props.append(p)
-            rec[ref] = {"acc": float(np.mean(accs)), "subj_hon_rate": float(np.mean(props))}
+            rec[ref] = {"acc": float(np.mean(accs)), "obj_hon_rate": float(np.mean(props))}
         out[m] = rec
         a_p, a_h = rec["평어"]["acc"], rec["존대"]["acc"]
-        pr_p, pr_h = rec["평어"]["subj_hon_rate"], rec["존대"]["subj_hon_rate"]
+        pr_p, pr_h = rec["평어"]["obj_hon_rate"], rec["존대"]["obj_hon_rate"]
         print(f"  {m}: 정확도 평어 {a_p*100:.1f}% / 존대 {a_h*100:.1f}% (Δ {(a_h-a_p)*100:+.1f}%p, H5 직교)")
-        print(f"        출력 -시- 전파 평어 {pr_p*100:.1f}% / 존대 {pr_h*100:.1f}% (Δ {(pr_h-pr_p)*100:+.1f}%p)")
+        print(f"        객체높임 전파(전해 드리다) 평어 {pr_p*100:.1f}% / 존대 {pr_h*100:.1f}% (Δ {(pr_h-pr_p)*100:+.1f}%p)")
     (OUT / "nsmcref.json").write_text(json.dumps(out, ensure_ascii=False, indent=2))
     return out
 

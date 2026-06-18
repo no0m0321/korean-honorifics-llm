@@ -8,8 +8,9 @@ abstract: >-
   across three open-weight models (EXAONE 3.5, Qwen3, Llama 3.1) and three tasks, with
   113,400 model responses, a Kiwi-based speech-level classifier, and a full reproducible pipeline.
 authors:
-  - family-names: "FAMILY"        # TODO: 저자 정보 기입
-    given-names: "GIVEN"
+  - family-names: "Kim"
+    given-names: "Seungwoo"
+    affiliation: "Jamsin High School"
     email: "swxvno0m@gmail.com"
 keywords:
   - large language models
@@ -19,6 +20,6 @@ keywords:
   - prompt sensitivity
   - register classification
 license: Apache-2.0
-version: "1.0.0"
-date-released: "2026-06-15"
-repository-code: "https://github.com/USER/korean-honorifics-llm"   # TODO: 저장소 URL 기입
+version: "1.0.1"
+date-released: "2026-06-18"
+repository-code: "https://github.com/no0m0321/korean-honorifics-llm"   # TODO: 저장소 URL 기입

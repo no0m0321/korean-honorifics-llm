@@ -1,0 +1,20 @@
+{
+  "exaone3.5": {
+    "judge_overall": 0.7,
+    "judge_subj_vio": 0.5,
+    "judge_obj_vio": 0.42857142857142855,
+    "judge_ok_sent": 0.9333333333333333
+  },
+  "qwen3": {
+    "judge_overall": 0.5333333333333333,
+    "judge_subj_vio": 0.75,
+    "judge_obj_vio": 0.2857142857142857,
+    "judge_ok_sent": 0.5333333333333333
+  },
+  "llama3.1": {
+    "judge_overall": 0.5,
+    "judge_subj_vio": 1.0,
+    "judge_obj_vio": 1.0,
+    "judge_ok_sent": 0.0
+  }
+}

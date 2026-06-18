@@ -60,7 +60,7 @@ def build_prompt(tpl: dict, task: str, level: int, template_no: int, item: dict)
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", required=True, choices=sorted(adapters.MODELS))
-    ap.add_argument("--task", required=True, choices=["nsmc", "copa", "summ", "hsc", "memo"])
+    ap.add_argument("--task", required=True, choices=["nsmc", "copa", "summ", "hsc", "memo", "haj", "nsmcref"])
     ap.add_argument("--levels", default="1,2,3,4,5,6")
     ap.add_argument("--templates", default="1,2,3")
     ap.add_argument("--limit", type=int, default=None, help="아이템 수 제한 (파일럿용)")

@@ -1,0 +1,30 @@
+{"item_id": "haj0", "sentence": "저는 어제 교수님을 뵈었습니다.", "label": "O", "vio": "none"}
+{"item_id": "haj1", "sentence": "할머니께서 진지를 드신다.", "label": "O", "vio": "none"}
+{"item_id": "haj2", "sentence": "민수가 할아버지께 선물을 드렸다.", "label": "O", "vio": "none"}
+{"item_id": "haj3", "sentence": "선생님께서 댁에 계신다.", "label": "O", "vio": "none"}
+{"item_id": "haj4", "sentence": "할아버지께서 신문을 읽으신다.", "label": "O", "vio": "none"}
+{"item_id": "haj5", "sentence": "동생이 선생님께 안부를 여쭈었다.", "label": "O", "vio": "none"}
+{"item_id": "haj6", "sentence": "어머니께서 일찍 주무신다.", "label": "O", "vio": "none"}
+{"item_id": "haj7", "sentence": "철수가 사장님께 보고서를 드렸다.", "label": "O", "vio": "none"}
+{"item_id": "haj8", "sentence": "교수님께서 다음 주에 오신다.", "label": "O", "vio": "none"}
+{"item_id": "haj9", "sentence": "제가 부장님을 모시고 갔습니다.", "label": "O", "vio": "none"}
+{"item_id": "haj10", "sentence": "할아버지께서 편찮으시다.", "label": "O", "vio": "none"}
+{"item_id": "haj11", "sentence": "지수가 원장님께 말씀을 여쭈었다.", "label": "O", "vio": "none"}
+{"item_id": "haj12", "sentence": "사장님께서 회의에 참석하신다.", "label": "O", "vio": "none"}
+{"item_id": "haj13", "sentence": "후배가 선생님을 뵙고 왔다.", "label": "O", "vio": "none"}
+{"item_id": "haj14", "sentence": "큰아버지께서 책을 보신다.", "label": "O", "vio": "none"}
+{"item_id": "haj15", "sentence": "할머니께서 거실에 있다.", "label": "X", "fix": "할머니께서 거실에 계신다.", "vio": "subj"}
+{"item_id": "haj16", "sentence": "교수님이 강의실에 왔다.", "label": "X", "fix": "교수님께서 강의실에 오셨다.", "vio": "subj"}
+{"item_id": "haj17", "sentence": "할아버지가 밥을 먹는다.", "label": "X", "fix": "할아버지께서 진지를 드신다.", "vio": "subj"}
+{"item_id": "haj18", "sentence": "사장님이 지금 잔다.", "label": "X", "fix": "사장님께서 지금 주무신다.", "vio": "subj"}
+{"item_id": "haj19", "sentence": "선생님이 신문을 읽는다.", "label": "X", "fix": "선생님께서 신문을 읽으신다.", "vio": "subj"}
+{"item_id": "haj20", "sentence": "부장님이 내일 온다.", "label": "X", "fix": "부장님께서 내일 오신다.", "vio": "subj"}
+{"item_id": "haj21", "sentence": "원장님이 많이 아프다.", "label": "X", "fix": "원장님께서 많이 편찮으시다.", "vio": "subj"}
+{"item_id": "haj22", "sentence": "어머니가 회의에 간다.", "label": "X", "fix": "어머니께서 회의에 가신다.", "vio": "subj"}
+{"item_id": "haj23", "sentence": "민수가 할아버지에게 책을 줬다.", "label": "X", "fix": "민수가 할아버지께 책을 드렸다.", "vio": "obj"}
+{"item_id": "haj24", "sentence": "동생이 선생님을 봤다.", "label": "X", "fix": "동생이 선생님을 뵈었다.", "vio": "obj"}
+{"item_id": "haj25", "sentence": "나는 사장님에게 보고서를 줬다.", "label": "X", "fix": "나는 사장님께 보고서를 드렸다.", "vio": "obj"}
+{"item_id": "haj26", "sentence": "철수가 교수님에게 질문을 물었다.", "label": "X", "fix": "철수가 교수님께 질문을 여쭈었다.", "vio": "obj"}
+{"item_id": "haj27", "sentence": "지수가 할머니를 데리고 갔다.", "label": "X", "fix": "지수가 할머니를 모시고 갔다.", "vio": "obj"}
+{"item_id": "haj28", "sentence": "후배가 부장님에게 말을 했다.", "label": "X", "fix": "후배가 부장님께 말씀을 드렸다.", "vio": "obj"}
+{"item_id": "haj29", "sentence": "내가 원장님에게 선물을 줬다.", "label": "X", "fix": "내가 원장님께 선물을 드렸다.", "vio": "obj"}
